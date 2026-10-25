@@ -1,0 +1,18 @@
+# Data Manipulation (Requires recent versions for Python 3.15 wheels)
+numpy>=2.1.0
+pandas>=2.2.0
+
+# Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Classical Machine Learning
+scikit-learn>=1.5.0
+
+# Data Acquisition
+kaggle>=1.6.0
+
+# Deep Learning (Open constraints to fetch latest 3.15 compatible wheels)
+torch
+torchvision
+tensorflow
